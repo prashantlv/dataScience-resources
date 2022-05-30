@@ -1,6 +1,8 @@
 # dataScience-resources
 Data Science Resources - Let's grow together
 
+[Intro To DataScience](src/pdf/beginners_guide_to_data_science_presentaion.pdf)
+
 ## usefull links
 
 [Microsoft-Beginners DS](https://github.com/microsoft/Data-Science-For-Beginners)\
@@ -10,7 +12,6 @@ Data Science Resources - Let's grow together
 
 
 ## Algorithms
-[top](#awesome-data-science)
 
 These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
 

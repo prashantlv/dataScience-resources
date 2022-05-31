@@ -22,6 +22,10 @@
 - [Mathematics for ML - Cambridge University](src/pdf/Mathematics_for_Machine_Learning1.pdf)
 - [Mathematics for Machine Learning - GOD ⭐](src/pdf/mml-book.pdf)
 
+**Machine Learning With Python**
+
+- [ML with Python Cookbook-Chris Albon](src/pdf/Chris-Albon-Machine_Learning_with_Python_Cookbook.pdf)
+
 ## Algorithms
 
 These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.

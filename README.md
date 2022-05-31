@@ -17,9 +17,9 @@
 
 **Maths for ML**
 
-- [Mathematics for ML](src/pdf/Mathematics_for_Machine_Learning.pdf)
-- [Mathematics for ML](src/pdf/Mathematics_for_Machine_Learning1.pdf)
-- [Mathematics for ML](src/pdf/Mathematics_for_Machine_Learning2.pdf)
+- [Mathematics for ML - LECTURE NOTES - IMPERIAL COLLEGE LONDON](src/pdf/Mathematics_for_Machine_Learning.pdf)
+- [Mathematics for ML - Cambridge University](src/pdf/Mathematics_for_Machine_Learning1.pdf)
+- [Mathematics for ML - Seminar_notes - IMPERIAL COLLEGE LONDON](src/pdf/Mathematics_for_Machine_Learning2.pdf)
 - [MML](src/pdf/mml-book.pdf)
 
 ## Algorithms

@@ -3,22 +3,21 @@
 
 [Intro To DataScience](src/pdf/beginners_guide_to_data_science_presentaion.pdf)
 
-#### FAV BOOKS
-
-*Python*
-
-- [Python for PRO](src/pdf/pythonnotesforprofessionals.pdf)
-
-*Maths for ML*
-
-- []
-
-## usefull links
+### usefull links
 
 [Microsoft-Beginners DS](https://github.com/microsoft/Data-Science-For-Beginners)\
 [Data Science Resource](https://github.com/khuyentran1401/Data-science)\
 [Cheet Sheets and BOOKS <3](https://github.com/prashantlv/dataScience-cheatS)
 
+#### FAV BOOKS
+
+**Python**
+
+- [Python for PRO](src/pdf/pythonnotesforprofessionals.pdf)
+
+**Maths for ML**
+
+- []
 
 
 ## Algorithms

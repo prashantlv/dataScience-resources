@@ -1,5 +1,5 @@
 # dataScience-resources
-Data Science Resources - Let's grow together
+**Data Science Resources** - Let's grow together
 
 [Intro To DataScience](src/pdf/beginners_guide_to_data_science_presentaion.pdf)
 

@@ -11,7 +11,11 @@
 [Cheet Sheets and BOOKS <3](https://github.com/prashantlv/dataScience-cheatS)
 
 ##### Youtube Playlists
-[Kaggle's 30 Days of ML - Abhishek Thakur](https://youtube.com/playlist?list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N) ⭐
+[Kaggle's 30 Days of ML - Abhishek Thakur ⭐](https://youtube.com/playlist?list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N)
+[Applied ML Framework - Abhishek Thakur ⭐⭐](https://youtube.com/playlist?list=PL98nY_tJQXZnKfgWIADbBG182nFUNIsxw)
+[Machine Learning — Andrew Ng ⭐](https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+[Statistics Fundamentals - Josh Starmer ⭐⭐](https://youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+[Statistics in Machine Learning - Krish Naik ⭐](https://youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
 
 ### Fav. Books 
 
@@ -24,11 +28,11 @@
 - [Mathematics for ML - Seminar_notes - IMPERIAL COLLEGE LONDON](src/pdf/Mathematics_for_Machine_Learning2.pdf)
 - [Mathematics for ML - LECTURE NOTES - IMPERIAL COLLEGE LONDON](src/pdf/Mathematics_for_Machine_Learning.pdf)
 - [Mathematics for ML - Cambridge University](src/pdf/Mathematics_for_Machine_Learning1.pdf)
-- [Mathematics for Machine Learning - GOD ⭐](src/pdf/mml-book.pdf)
+- [Mathematics for Machine Learning - GOD ⭐⭐](src/pdf/mml-book.pdf)
 
 **Machine Learning With Python**
 
-- [ML with Python Cookbook-Chris Albon](src/pdf/Chris-Albon-Machine_Learning_with_Python_Cookbook.pdf)
+- [ML with Python Cookbook-Chris Albon ⭐⭐](src/pdf/Chris-Albon-Machine_Learning_with_Python_Cookbook.pdf)
 
 ## Algorithms
 

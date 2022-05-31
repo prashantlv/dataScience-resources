@@ -5,12 +5,12 @@
 
 ### Usefull URLs
 
-#####Repos
+##### Repos
 [Microsoft-Beginners DS](https://github.com/microsoft/Data-Science-For-Beginners)\
 [Data Science Resource](https://github.com/khuyentran1401/Data-science)\
 [Cheet Sheets and BOOKS <3](https://github.com/prashantlv/dataScience-cheatS)
 
-#####Youtube Playlists
+##### Youtube Playlists
 [Kaggle's 30 Days of ML - Abhishek Thakur](https://youtube.com/playlist?list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N) ⭐
 
 ### Fav. Books 

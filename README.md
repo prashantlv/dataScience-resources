@@ -17,9 +17,9 @@
 
 **Maths for ML**
 
-- [Mathematics for ML](src/pdf/Mathematics for Machine Learning.pdf)
-- [Mathematics for ML](src/pdf/Mathematics for Machine Learning1.pdf)
-- [Mathematics for ML](src/pdf/Mathematics for machine learning2.pdf)
+- [Mathematics for ML](src/pdf/Mathematics_for_Machine_Learning.pdf)
+- [Mathematics for ML](src/pdf/Mathematics_for_Machine_Learning1.pdf)
+- [Mathematics for ML](src/pdf/Mathematics_for_Machine_Learning2.pdf)
 - [MML](src/pdf/mml-book.pdf)
 
 ## Algorithms

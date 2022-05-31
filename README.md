@@ -9,7 +9,7 @@
 [Data Science Resource](https://github.com/khuyentran1401/Data-science)\
 [Cheet Sheets and BOOKS <3](https://github.com/prashantlv/dataScience-cheatS)
 
-#### FAV BOOKS
+### FAV BOOKS
 
 **Python**
 

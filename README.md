@@ -11,10 +11,10 @@
 [Cheet Sheets and BOOKS <3](https://github.com/prashantlv/dataScience-cheatS)
 
 ##### Youtube Playlists
-[Kaggle's 30 Days of ML - Abhishek Thakur ⭐](https://youtube.com/playlist?list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N)
-[Applied ML Framework - Abhishek Thakur ⭐⭐](https://youtube.com/playlist?list=PL98nY_tJQXZnKfgWIADbBG182nFUNIsxw)
-[Machine Learning — Andrew Ng ⭐](https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
-[Statistics Fundamentals - Josh Starmer ⭐⭐](https://youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+[Kaggle's 30 Days of ML - Abhishek Thakur ⭐](https://youtube.com/playlist?list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N)\
+[Applied ML Framework - Abhishek Thakur ⭐⭐](https://youtube.com/playlist?list=PL98nY_tJQXZnKfgWIADbBG182nFUNIsxw)\
+[Machine Learning — Andrew Ng ⭐](https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)\
+[Statistics Fundamentals - Josh Starmer ⭐⭐](https://youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)\
 [Statistics in Machine Learning - Krish Naik ⭐](https://youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
 
 ### Fav. Books 
